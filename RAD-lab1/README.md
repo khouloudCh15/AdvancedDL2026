@@ -6,15 +6,14 @@ zero-shot classification, semantic FAQ search) from small BERT-family models —
 `pipeline()` call. It is also the skeleton of your **final project**.
 
 ## Schedule
-| Time | Notebook | What you do |
-|---|---|---|
-| 0:00 – 0:10 | *(setup)* | `python check_setup.py`, demo of the finished app |
-| 0:10 – 0:35 | `01_hf_pipelines` | Hub & licences, four pipelines, **break the model**, zero-shot templates |
-| 0:35 – 1:05 | `02_under_the_hood` | tokenizer → tensors → logits, rebuild a pipeline, embeddings & semantic search, masked LM |
-| 1:05 – 1:10 | | ☕ break |
-| 1:10 – 1:30 | `03_gradio_basics` | `Interface`, `Label`, `HighlightedText`, `Blocks` & tabs, your own interface |
-| 1:30 – 1:55 | `04_textlab_app` | write 5 functions, self-test, launch the app, export `textlab_app.py` |
-| 1:55 – 2:00 | | wrap-up, take-home assignment |
+| Notebook | What you do |
+|---|---|
+| *(setup)* | `python check_setup.py`, demo of the finished app |
+| `01_hf_pipelines` | Hub & licences, four pipelines, **break the model**, zero-shot templates |
+| `02_under_the_hood` | tokenizer → tensors → logits, rebuild a pipeline, embeddings & semantic search, masked LM |
+| `03_gradio_basics` | `Interface`, `Label`, `HighlightedText`, `Blocks` & tabs, your own interface |
+| `04_textlab_app` | write 5 functions, self-test, launch the app, export `textlab_app.py` |
+|take-home assignment |
 
 Take-home: `notebooks/05_homework_starter.ipynb` + `assignment/ASSIGNMENT.md`. How this feeds your final project: `assignment/FINAL_PROJECT_BRIDGE.md`.
 
