@@ -1,0 +1,49 @@
+text,label,tag
+"Absolutely loved this movie, the acting was brilliant.",POSITIVE,easy
+The hotel was spotless and the staff were incredibly friendly.,POSITIVE,easy
+"Best pizza I have had in years, we will definitely come back.",POSITIVE,easy
+Great battery life and the screen is gorgeous.,POSITIVE,easy
+A heartwarming story that left the whole theatre smiling.,POSITIVE,easy
+Fast delivery and the product works perfectly.,POSITIVE,easy
+"The concert was unforgettable, what an incredible energy!",POSITIVE,easy
+This book kept me hooked from the first page to the last.,POSITIVE,easy
+"Terrible service, we waited an hour for cold food.",NEGATIVE,easy
+"The phone stopped working after two days, a complete waste of money.",NEGATIVE,easy
+"Boring plot and wooden acting, I nearly fell asleep.",NEGATIVE,easy
+The room was filthy and the staff were rude.,NEGATIVE,easy
+"Worst purchase I have made all year, it broke immediately.",NEGATIVE,easy
+The app crashes every single time I open it.,NEGATIVE,easy
+"A dull, predictable film with no redeeming qualities.",NEGATIVE,easy
+"Overpriced and flavourless, I regret ordering this.",NEGATIVE,easy
+"The film was not bad at all, I really enjoyed it.",POSITIVE,negation
+"I can't complain, the food was excellent.",POSITIVE,negation
+It's not boring for a single minute.,POSITIVE,negation
+"No problems at all with the installation, everything worked first time.",POSITIVE,negation
+"I could not have asked for a better host, never a dull moment.",POSITIVE,negation
+The food was not good and the portions were not generous.,NEGATIVE,negation
+I would not recommend this hotel to anyone.,NEGATIVE,negation
+The battery doesn't last and it isn't even fast.,NEGATIVE,negation
+"Not worth the money, not even on sale.",NEGATIVE,negation
+This is not the quality I expected from this brand.,NEGATIVE,negation
+"Oh great, another software update that breaks everything. Just what I needed.",NEGATIVE,sarcasm
+"Wow, thirty minutes late again. Truly impressive punctuality.",NEGATIVE,sarcasm
+"Fantastic, the one day I need it, the wifi decides to die.",NEGATIVE,sarcasm
+I love how the 'waterproof' watch died in the rain.,NEGATIVE,sarcasm
+"This place slaps, the burgers are fire.",POSITIVE,slang
+ngl this album is a total banger.,POSITIVE,slang
+"Lowkey obsessed with this new game, 10/10.",POSITIVE,slang
+"Meh, this show is mid at best and honestly kinda cringe.",NEGATIVE,slang
+"Hard pass, the vibes were off and the food was trash.",NEGATIVE,slang
+Bro this update is straight garbage.,NEGATIVE,slang
+"Un film magnifique, je l'ai adoré du début à la fin.",POSITIVE,other-language
+"Me encantó este lugar, la comida estaba deliciosa y el personal muy amable.",POSITIVE,other-language
+"Ein wunderbares Hotel, ich komme sehr gerne wieder.",POSITIVE,other-language
+"Un service horrible, je ne reviendrai jamais.",NEGATIVE,other-language
+La película fue aburridísima y muy larga.,NEGATIVE,other-language
+Das Essen war kalt und der Kellner unfreundlich.,NEGATIVE,other-language
+"The plot was a bit slow, but the performances were so good that I loved it anyway.",POSITIVE,mixed
+"Pricey, yes, but the quality is outstanding and worth every cent.",POSITIVE,mixed
+"The room was small, though the view and the breakfast made the stay fantastic.",POSITIVE,mixed
+"The graphics are nice, but the game is buggy and the story is a mess.",NEGATIVE,mixed
+"Friendly staff, sadly the food was bland and the wait was endless.",NEGATIVE,mixed
+"It looks great on paper, yet in practice it is slow and frustrating.",NEGATIVE,mixed
